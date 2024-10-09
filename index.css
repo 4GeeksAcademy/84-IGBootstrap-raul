@@ -1,0 +1,21 @@
+.log-out-text {
+    color: red !important; 
+}
+
+.log-out-text:hover {
+    color: red !important; 
+    background-color: transparent !important; 
+}
+
+img.img-thumbnail {
+    width: 800px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.nav-pill .nav-link{
+    color: black;
+}
+.nav-pill .nav-link.active{
+    color: red;
+}
